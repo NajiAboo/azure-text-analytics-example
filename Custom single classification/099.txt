@@ -1,0 +1,1 @@
+We consider a scalar balance law with a strict convex flux. In this paper, we study L-2 stability to a shock for a scalar balance law up to a shift function, which is based on the relative entropy. This result generalizes Leger's works [18] and provides more a simple proof than Leger's proof.
